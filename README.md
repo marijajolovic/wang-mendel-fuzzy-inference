@@ -19,17 +19,17 @@ Cilj je da se definišu fuzzy promenljive, generišu pravila metodom Wang-Mendel
    
     Na Windows-u: 
 
-        ```
+    
         python -m venv venv
         venv\Scripts\activate
-        ```
+        
 
     Na Linux-u:
 
-        ```
+        
         python3 -m venv venv
         source venv/bin/activate
-        ```
+        
 
 3. Instalirati zavisnosti:
    

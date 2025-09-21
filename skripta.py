@@ -1,3 +1,5 @@
+# Link do domaceg: https://github.com/marijajolovic/wang-mendel-fuzzy-inference
+
 # Importovanje biblioteka
 import numpy as np
 import skfuzzy as fuzz
